@@ -7,7 +7,7 @@ import {
     getTicketsByState,
     getUserTickets,
     updateTicketState
- } from '../controller/ticketControler.js';
+ } from '../controller/ticketController.js';
 import { adminMiddleware, reviewerMiddleware } from '../Middleware/authMiddleware.js';
 
 
