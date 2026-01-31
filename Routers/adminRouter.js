@@ -1,5 +1,5 @@
 import express from "express";
-import { addUer } from "../controller/aminControler.js";
+import { addUer } from "../controller/aminController.js";
 import { 
     adminMiddleware, 
     authMiddleware 
